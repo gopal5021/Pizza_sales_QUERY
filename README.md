@@ -3,3 +3,8 @@ Welcome to the Pizza Sales SQL Analysis project! This repository contains SQL qu
 Prerequisites:
 A working SQL environment (e.g., MySQL, PostgreSQL, SQL Server).
 Basic understanding of SQL queries and database operations.
+
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+
+
+
